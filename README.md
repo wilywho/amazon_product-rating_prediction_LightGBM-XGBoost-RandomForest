@@ -1,2 +1,16 @@
-# amazon_product-rating_prediction_LightGBM-XGBoost-RandomForest
-In this project, I am working on data analysis and building predictive models for product rating (Good or Bad) using classification methods. I am applying the **CRISP-DM (Cross-Industry Standard Process for Data Mining)** framework to ensure the project is carried out in a well-structured and systematic manner.
+# Amazon Product Rating Prediction using LightGBM, XGBoost, and Random Forest
+
+created by Farhan Wily
+
+This project explores how product ratings on Amazon can be predicted using machine learning. The goal is to classify each product review into Good or Bad based on a combination of numerical features, categorical information, sentiment, and text data from customer reviews.
+
+To keep the workflow organized and transparent, the entire process follows the CRISP-DM methodology—from understanding the business problem to deploying a ready-to-use dataset for visualization or further analysis. The dataset includes product details, pricing information, user reviews, sentiment labels, and several engineered features created during the preparation phase.
+
+The modeling section compares three classification algorithms:
+- LightGBM
+- XGBoost
+- Random Forest
+
+Each model is trained and evaluated to see how well it can predict the rating class, with metrics such as accuracy, precision, recall, F1-score, and ROC curves. The project also includes text processing using TF-IDF, feature encoding, and the integration of sentiment analysis to strengthen the predictive power of the models.
+
+The final output consists of a cleaned and enriched dataset, model predictions, probability scores, and insights that highlight patterns in customer behavior and product performance. This work can be used for dashboards, recommendation systems, or any application that requires understanding how customers perceive product quality.
