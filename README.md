@@ -13,3 +13,5 @@ The modeling section compares three classification algorithms:
 Each model is trained and evaluated to see how well it can predict the rating class, with metrics such as accuracy, precision, recall, F1-score, and ROC curves. The project also includes text processing using TF-IDF, feature encoding, and the integration of sentiment analysis to strengthen the predictive power of the models.
 
 The final output consists of a cleaned and enriched dataset, model predictions, probability scores, and insights that highlight patterns in customer behavior and product performance. This work can be used for dashboards, recommendation systems, or any application that requires understanding how customers perceive product quality.
+
+Here my Google Colab Link for this project: https://colab.research.google.com/drive/1HQSTq87aBOIVtUj-d-TPRBo5-kzbPO81?usp=sharing
