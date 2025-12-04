@@ -1,5 +1,5 @@
 # Amazon Product Rating Prediction using LightGBM, XGBoost, and Random Forest
-by Farhan Wily
+by Farhan Wily.
 
 This project explores how product ratings on Amazon can be predicted using machine learning. The goal is to classify each product review into Good or Bad based on a combination of numerical features, categorical information, sentiment, and text data from customer reviews.
 
